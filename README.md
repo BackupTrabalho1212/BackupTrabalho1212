@@ -4,12 +4,12 @@
 🏆 **1º Lugar Estadual WorldSkills 2022** | 🥈 **4º Lugar Mundial WorldSkills 2023**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Transição%20para%20Cybersecurity-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Certificado-CEH%20(Em%20Andamento)-green?style=flat-square" alt="CEH">
-  <img src="https://img.shields.io/badge/WorldSkills%202022-1%C2%BA%20Lugar%20Estadual-yellow?style=flat-square" alt="WorldSkills">
+  <!-- GitHub Stats Card -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-coronado&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical)
+  
+  <!-- Most Used Languages Card -->
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-coronado&layout=compact&hide_title=true&hide_border=true&theme=radical)
 </div>
-
-Sou Gabriel Coronado, profissional com forte experiência em **gestão de redes**, **infraestrutura de TI** e **segurança de redes**. Atualmente, estou expandindo meus conhecimentos para **cibersegurança** e focado em proteger redes e dados contra ameaças cibernéticas.
 
 ---
 
