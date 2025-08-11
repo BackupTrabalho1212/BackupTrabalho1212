@@ -1,59 +1,56 @@
-# 🌐 Portfólio de Redes e Cibersegurança - Gabriel Coronado
+# 👨‍💻 Gabriel Coronado - Portfólio de Redes e Cibersegurança
 
-**Especialista em TI e Redes de Computadores | Técnico Sênior na Salomon Informática**  
-🏆 1º Lugar Estadual **WorldSkills 2022** | 🥈 4º Lugar Mundial **WorldSkills 2023**
+**Especialista em TI e Redes | Em transição para Cibersegurança**  
+🏆 **1º Lugar Estadual WorldSkills 2022** | 🥈 **4º Lugar Mundial WorldSkills 2023**
 
-Sou Gabriel Coronado, especialista em **Gestão de Redes de Computadores** e atualmente em transição para a área de **Cibersegurança**. Com vasta experiência em **infraestrutura de TI**, **segurança de redes** e **alta disponibilidade**, estou expandindo meus conhecimentos em **proteção de dados** e **defesa contra ameaças cibernéticas**. Neste repositório, compartilho projetos práticos, estudos e ferramentas que aplico tanto em redes quanto em segurança.
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Transição%20para%20Cybersecurity-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Certificado-CEH%20(Em%20Andamento)-green?style=flat-square" alt="CEH">
+  <img src="https://img.shields.io/badge/WorldSkills%202022-1%C2%BA%20Lugar%20Estadual-yellow?style=flat-square" alt="WorldSkills">
+</div>
 
----
-
-## 🛠️ Áreas de Expertise
-
-- **Gestão de Redes**: Configuração e monitoramento de **Active Directory**, **DHCP**, **DNS**, **GPO**, além de **segurança de redes** com **PFSense**, **VPNs** e **Firewalls**.
-- **Alta Disponibilidade**: Implantação de soluções de **load balancing** e **failover** em roteadores, garantindo redundância e continuidade dos serviços.
-- **Segurança de Redes**: Implementação de medidas de segurança em redes corporativas, bloqueio de sites maliciosos e controle de acesso com **PFSense**.
-- **Cibersegurança**: Estudo e aplicação de práticas de segurança como **monitoramento de tráfego de rede**, **análise forense** e automação de **testes de penetração**.
+Sou Gabriel Coronado, profissional com forte experiência em **gestão de redes**, **infraestrutura de TI** e **segurança de redes**. Atualmente, estou expandindo meus conhecimentos para **cibersegurança** e focado em proteger redes e dados contra ameaças cibernéticas.
 
 ---
 
-## 🧠 Projetos e Ferramentas
-
-### 1. **Firewall PFSense**
-   - Implementação de **firewalls** para proteção da rede, com controle de acesso, VPNs e bloqueio de conteúdo malicioso.
-
-### 2. **Automatização e Monitoramento de Redes**
-   - Scripts para **monitoramento** de servidores, **VPNs** e **firewalls**, além de alertas automatizados para falhas de segurança.
-
-### 3. **Segurança e Proteção de Dados**
-   - Projetos em **cibersegurança** focados em **proteção de dados**, análise de vulnerabilidades e resposta a incidentes.
+### 🔧 **Minhas Áreas de Expertise**
+- **Gestão de Redes**: Active Directory, DHCP, DNS, GPO, VPNs, PFSense, Firewalls.
+- **Alta Disponibilidade**: Load Balancing, Failover, Segmentação de Rede.
+- **Segurança de Redes**: Controle de acesso, proteção contra ameaças, análise de tráfego.
+- **Cibersegurança**: Estudo de **Testes de Penetração**, **Análise Forense**, **Proteção de Dados**.
 
 ---
 
-## 📚 Certificações e Formação
-
-- **WorldSkills 2022**: 1º Lugar Estadual e 4º Lugar Mundial.
-- **Certificação CEH (Certified Ethical Hacker)** em andamento.
-- **CompTIA Security+** em estudo.
-
----
-
-## 🔗 Links Profissionais
-
-- **LinkedIn**: [Gabriel Coronado](https://www.linkedin.com/in/gabriel-coronado)
-- **Email**: gabriel@email.com
-- **GitHub**: [github.com/gabriel-coronado](https://github.com/gabriel-coronado)
+### 💼 **Projetos em Destaque**
+- **Firewall PFSense**: Configuração e manutenção de firewalls, controle de acesso e segurança.
+- **Automatização de Redes**: Scripts para monitoramento de servidores, VPNs e firewalls.
+- **Segurança em Redes**: Implementação de medidas para proteger redes contra ataques e vulnerabilidades.
 
 ---
 
-## 🖥️ Tecnologias e Ferramentas
-
-- **Redes**: Active Directory, DHCP, DNS, GPO, VLANs, Load Balancing, Failover.
-- **Segurança de Redes**: PFSense, VPNs, Firewalls, Monitoramento de Rede.
-- **Cibersegurança**: Ferramentas de **análise forense**, **testes de penetração** e **análise de tráfego**.
-- **Infraestrutura**: Office 365, Azure, Backup, Alta Disponibilidade.
+### 📚 **Certificações**
+- **WorldSkills 2022** - 1º Lugar Estadual e 4º Lugar Mundial
+- **CEH (Certified Ethical Hacker)** - Em andamento
+- **CompTIA Security+** - Em estudo
 
 ---
 
-## 📜 Licença
+### 🌐 **Meus Links**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Coronado-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-coronado)  
+[![GitHub](https://img.shields.io/badge/GitHub-gabriel--coronado-black?style=flat-square&logo=github)](https://github.com/gabriel-coronado)  
+📧 **Email**: gabriel@email.com
+
+---
+
+### 🖥️ **Tecnologias e Ferramentas**
+- **Redes**: PFSense, VPNs, VLANs, Active Directory
+- **Segurança**: Firewalls, Monitoramento, Testes de Penetração
+- **Infraestrutura**: Office 365, Azure, Backup
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square" alt="License">
+</div>
 
 Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
