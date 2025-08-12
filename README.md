@@ -38,7 +38,7 @@
 
 ### 🌐 **Meus Links**
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Gabriel%20Coronado-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-coronado](https://www.linkedin.com/in/gabriel-coronado-693a6b247/))  
-[![GitHub](https://img.shields.io/badge/GitHub-gabriel--coronado-black?style=flat-square&logo=github)](https://github.com/gabriel-coronado)  
+[![GitHub](https://img.shields.io/badge/GitHub-gabriel--coronado-black?style=flat-square&logo=github)]([https://github.com/gabriel-coronado](https://github.com/BackupTrabalho1212))  
 📧 **Email**: gabrielcoronado766@gmail.com
 
 ---
