@@ -1,7 +1,7 @@
 # 👨‍💻 Gabriel Coronado — Especialista em Redes | Focado em Cibersegurança
 
 🏆 **1º Lugar Estadual - WorldSkills 2022**  
-🌍 **4º Lugar Mundial - WorldSkills 2023**  
+🌍 **4º Lugar Nacional - WorldSkills 2023**  
 🔐 Em transição para Cibersegurança com foco em Ethical Hacking, Defesa de Redes e Automação
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 ### 📚 **Certificações**
 
-- ✅ **WorldSkills (Redes e Sistemas)** — 1º Lugar Estadual | 4º Lugar Mundial  
+- ✅ **WorldSkills (Redes e Sistemas)** — 1º Lugar Estadual | 4º Lugar Nacional  
 - 📘 **CEH (Certified Ethical Hacker)** — Em andamento  
 - 📘 **CompTIA Security+** — Em estudo  
 
@@ -62,8 +62,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square" alt="License">
-  <br>
-  Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-</div>
